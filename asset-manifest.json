@@ -1,0 +1,36 @@
+{
+  "files": {
+    "app.js": "/okto/static/js/app.9098c219.chunk.js",
+    "app.js.map": "/okto/static/js/app.9098c219.chunk.js.map",
+    "runtime~app.js": "/okto/static/js/runtime~app.b409afc1.js",
+    "runtime~app.js.map": "/okto/static/js/runtime~app.b409afc1.js.map",
+    "static/js/2.1c05c5ac.chunk.js": "/okto/static/js/2.1c05c5ac.chunk.js",
+    "static/js/2.1c05c5ac.chunk.js.map": "/okto/static/js/2.1c05c5ac.chunk.js.map",
+    "index.html": "/okto/index.html",
+    "manifest.json": "/okto/manifest.json",
+    "serve.json": "/okto/serve.json",
+    "static/js/2.1c05c5ac.chunk.js.LICENSE.txt": "/okto/static/js/2.1c05c5ac.chunk.js.LICENSE.txt",
+    "static/media/bg.png": "/okto/static/media/bg.9ed69c26.png",
+    "static/media/bottom-corner.png": "/okto/static/media/bottom-corner.8a4c6940.png",
+    "static/media/cursor.png": "/okto/static/media/cursor.562890e2.png",
+    "static/media/discord.png": "/okto/static/media/discord.f2249b55.png",
+    "static/media/led.png": "/okto/static/media/led.88fcd34e.png",
+    "static/media/mint_image.png": "/okto/static/media/mint_image.c67db403.png",
+    "static/media/okto.png": "/okto/static/media/okto.7767aba5.png",
+    "static/media/social-button-tentacles.png": "/okto/static/media/social-button-tentacles.971f79a7.png",
+    "static/media/tentacle-1.png": "/okto/static/media/tentacle-1.3a984231.png",
+    "static/media/tentacle-2.png": "/okto/static/media/tentacle-2.82252488.png",
+    "static/media/tentacle-3.png": "/okto/static/media/tentacle-3.cc4e7af1.png",
+    "static/media/tentacle-4.png": "/okto/static/media/tentacle-4.a7564fe1.png",
+    "static/media/tentacles-group-bottom.png": "/okto/static/media/tentacles-group-bottom.76aed6c3.png",
+    "static/media/tentacles-group-top.png": "/okto/static/media/tentacles-group-top.13940dbc.png",
+    "static/media/top-corner.png": "/okto/static/media/top-corner.56b782a8.png",
+    "static/media/twitter.png": "/okto/static/media/twitter.156d192d.png",
+    "static/media/walletconnect-logo.png": "/okto/static/media/walletconnect-logo.1a1e5f36.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.b409afc1.js",
+    "static/js/2.1c05c5ac.chunk.js",
+    "static/js/app.9098c219.chunk.js"
+  ]
+}
